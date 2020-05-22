@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Pide_numero_dice_si_es_multiplo_de_10_para_pedir_otro</RootNamespace>
+  </PropertyGroup>
+
+</Project>

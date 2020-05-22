@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.exe
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.deps.json
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.dll
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\bin\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.pdb
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.dll
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.pdb
+C:\Users\Leuris Castillo\source\repos\Pide numero dice si es multiplo de 10 para pedir otro\obj\Debug\netcoreapp3.1\Pide numero dice si es multiplo de 10 para pedir otro.genruntimeconfig.cache

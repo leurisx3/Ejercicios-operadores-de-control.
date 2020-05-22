@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.exe
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.deps.json
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.dll
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\bin\Debug\netcoreapp3.1\Dos numeros cual es mayor.pdb
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.dll
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.pdb
+C:\Users\Leuris Castillo\source\repos\Dos numeros cual es mayor\obj\Debug\netcoreapp3.1\Dos numeros cual es mayor.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Dividir_2_numeros._si_el_segundo_tiene_0_avisar</RootNamespace>
+  </PropertyGroup>
+
+</Project>

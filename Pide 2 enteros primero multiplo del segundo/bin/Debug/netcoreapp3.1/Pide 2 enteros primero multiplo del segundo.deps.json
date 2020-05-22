@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pide 2 enteros primero multiplo del segundo/1.0.0": {
+        "runtime": {
+          "Pide 2 enteros primero multiplo del segundo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pide 2 enteros primero multiplo del segundo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

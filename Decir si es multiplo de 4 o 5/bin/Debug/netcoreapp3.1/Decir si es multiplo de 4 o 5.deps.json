@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Decir si es multiplo de 4 o 5/1.0.0": {
+        "runtime": {
+          "Decir si es multiplo de 4 o 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decir si es multiplo de 4 o 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

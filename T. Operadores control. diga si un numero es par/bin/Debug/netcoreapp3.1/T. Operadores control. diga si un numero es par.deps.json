@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T. Operadores control. diga si un numero es par/1.0.0": {
+        "runtime": {
+          "T. Operadores control. diga si un numero es par.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T. Operadores control. diga si un numero es par/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

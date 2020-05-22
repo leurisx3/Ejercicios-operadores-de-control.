@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3_numeros_reales_y_diga_cual_es_el_mayor_de_los_3</RootNamespace>
+  </PropertyGroup>
+
+</Project>

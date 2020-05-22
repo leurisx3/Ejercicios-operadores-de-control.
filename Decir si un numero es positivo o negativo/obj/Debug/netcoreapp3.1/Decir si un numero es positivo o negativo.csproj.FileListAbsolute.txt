@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.exe
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.deps.json
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.dll
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\bin\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.pdb
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.dll
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.pdb
+C:\Users\Leuris Castillo\source\repos\Decir si un numero es positivo o negativo\obj\Debug\netcoreapp3.1\Decir si un numero es positivo o negativo.genruntimeconfig.cache

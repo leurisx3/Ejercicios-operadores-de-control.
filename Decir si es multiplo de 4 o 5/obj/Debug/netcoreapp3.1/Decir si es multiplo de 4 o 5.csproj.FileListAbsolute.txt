@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.exe
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.deps.json
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.dll
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\bin\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.pdb
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.dll
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.pdb
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.genruntimeconfig.cache
+C:\Users\Leuris Castillo\source\repos\Decir si es multiplo de 4 o 5\obj\Debug\netcoreapp3.1\Decir si es multiplo de 4 o 5.csprojAssemblyReference.cache

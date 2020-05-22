@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 numeros reales y diga cual es el mayor de los 3", "3 numeros reales y diga cual es el mayor de los 3.csproj", "{2A56BBEA-2635-45F3-9408-611D7A97BA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A56BBEA-2635-45F3-9408-611D7A97BA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A56BBEA-2635-45F3-9408-611D7A97BA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A56BBEA-2635-45F3-9408-611D7A97BA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A56BBEA-2635-45F3-9408-611D7A97BA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7EFD0A-7B05-477B-8ECB-FA78811C90AB}
+	EndGlobalSection
+EndGlobal

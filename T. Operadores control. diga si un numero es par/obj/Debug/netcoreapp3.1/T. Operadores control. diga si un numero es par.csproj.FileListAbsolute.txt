@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.exe
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.deps.json
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.dll
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\bin\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.pdb
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.dll
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.pdb
+C:\Users\Leuris Castillo\source\repos\T. Operadores control. diga si un numero es par\obj\Debug\netcoreapp3.1\T. Operadores control. diga si un numero es par.genruntimeconfig.cache

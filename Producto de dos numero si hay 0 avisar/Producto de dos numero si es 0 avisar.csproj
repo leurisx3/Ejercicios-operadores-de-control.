@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Producto_de_dos_numero_si_es_0_avisar</RootNamespace>
+  </PropertyGroup>
+
+</Project>

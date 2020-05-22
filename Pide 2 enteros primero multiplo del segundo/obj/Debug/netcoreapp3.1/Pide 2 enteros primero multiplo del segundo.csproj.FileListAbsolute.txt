@@ -1,0 +1,13 @@
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.exe
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.deps.json
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.runtimeconfig.json
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.runtimeconfig.dev.json
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.dll
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\bin\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.pdb
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.csprojAssemblyReference.cache
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.csproj.CoreCompileInputs.cache
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.AssemblyInfoInputs.cache
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.AssemblyInfo.cs
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.dll
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.pdb
+C:\Users\Leuris Castillo\source\repos\Pide 2 enteros primero multiplo del segundo\obj\Debug\netcoreapp3.1\Pide 2 enteros primero multiplo del segundo.genruntimeconfig.cache
